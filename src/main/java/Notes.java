@@ -1,3 +1,5 @@
+import java.util.*;
+
 
 class Notes {
 	public static void main(String[] args) {
